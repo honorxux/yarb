@@ -54,9 +54,9 @@
             "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         },
         "dingtalk": {
-            "enabled": false,
-            "secrets": "DINGTALK_KEY",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+            "enabled": true,
+            "secrets": "SEC326682e4603319410f29d92ef545c482fef997908e89690d842a45571a30ccb4",
+            "key": "f6f7670844d41bd450d88a48e52c01897df163995f0a5384a6acd5cab71e0ffd"
         },
         "qq": {
             "enabled": false,
